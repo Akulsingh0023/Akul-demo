@@ -1,4 +1,4 @@
 # Akul-demo
 This is my first Git Repository.
 <br>
-Author-Akul Singh
+Author-Akul (Apna Hero)
